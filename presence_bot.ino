@@ -1,6 +1,6 @@
 /*
     Created by Ivan Grokhotkov, 2015.
-    Modified by Dmitry Kupriyanov, 2020.
+    Modified by ku-dmitry of MT.lab https://mtlab.su, 2020.
     This example is in public domain.
 */
 
