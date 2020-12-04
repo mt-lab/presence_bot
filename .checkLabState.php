@@ -1,4 +1,6 @@
 <?php
+    // Created by bedlamzd of MT.lab https://mtlab.su, 2020
+    // This example is in public domain.
 
     $TIMEOUT = 3 * 60; // 3 minutes
 

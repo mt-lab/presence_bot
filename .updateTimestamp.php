@@ -1,4 +1,7 @@
 <?php
+    // Created by bedlamzd of MT.lab https://mtlab.su, 2020
+    // This example is in public domain.
+
     $TIMESTAMP_FILEPATH = ".botTimestamp";
 
     function validateRequest(){
